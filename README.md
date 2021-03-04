@@ -1,15 +1,15 @@
-### Oh hi there 👋
+### Oh Hi there 👋
 
 ✨ Welcome to my profile ✨  
 I am a young developer from Italy.
 
 ## ⚡ Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanaxog&hide=TeX&layout=compact)
 
 ## 🔭 Activity
 
-- I'm the CEO of [Northwind Industries](https://northwind.cc)
+- I'm the **CEO** of [Northwind Industries](https://northwind.cc)
 - I'm currently working on **Actova** by Clyent Softwares LTD
 
 <!--
