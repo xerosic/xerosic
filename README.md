@@ -1,12 +1,12 @@
 ### Oh Hi there 👋
 
 ✨ Welcome to my profile ✨  
-I am a young developer from Italy.  
+I am a young developer from Italy.
+&nbsp;
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xanaxog.xanaxog)
 
 ## ⚡ Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xanaxog&hide=TeX&layout=compact)    
+![XanaxOG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanaxog&show_icons=true&theme=radical)
 
 ## 🔭 Activity
 
