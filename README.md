@@ -3,10 +3,10 @@
 ✨ Welcome to my profile ✨  
 I am a young developer from Italy.
 &nbsp;
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xanaxog.xanaxog)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=xerosic.xerosic)
 
 ## ⚡ Languages
-![XanaxOG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanaxog&show_icons=true&theme=radical)
+![xerosic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xerosic&show_icons=true&theme=radical)
 
 ## 🔭 Activity
 
