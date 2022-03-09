@@ -7,7 +7,7 @@ I am a young developer from Italy.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xerosic&theme=radical)\
 ![xerosic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xerosic&show_icons=true&theme=radical)
 
-(I don't write PHP code since 3 years)
+(I haven't written PHP code for 3 years don't consider me as a PHP dev)
 
 ## 🔭 Activity
 
